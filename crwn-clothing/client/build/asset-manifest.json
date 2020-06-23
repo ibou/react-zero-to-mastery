@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-zero-to-mastery/crwn-clothing/static/css/main.767c377d.chunk.css",
+    "main.js": "/react-zero-to-mastery/crwn-clothing/static/js/main.7905db47.chunk.js",
+    "main.js.map": "/react-zero-to-mastery/crwn-clothing/static/js/main.7905db47.chunk.js.map",
+    "runtime-main.js": "/react-zero-to-mastery/crwn-clothing/static/js/runtime-main.60e91f31.js",
+    "runtime-main.js.map": "/react-zero-to-mastery/crwn-clothing/static/js/runtime-main.60e91f31.js.map",
+    "static/js/2.a233947a.chunk.js": "/react-zero-to-mastery/crwn-clothing/static/js/2.a233947a.chunk.js",
+    "static/js/2.a233947a.chunk.js.map": "/react-zero-to-mastery/crwn-clothing/static/js/2.a233947a.chunk.js.map",
+    "index.html": "/react-zero-to-mastery/crwn-clothing/index.html",
+    "precache-manifest.24ca6ea72d4fdcb9a12fd1ebf6ad6a93.js": "/react-zero-to-mastery/crwn-clothing/precache-manifest.24ca6ea72d4fdcb9a12fd1ebf6ad6a93.js",
+    "service-worker.js": "/react-zero-to-mastery/crwn-clothing/service-worker.js",
+    "static/css/main.767c377d.chunk.css.map": "/react-zero-to-mastery/crwn-clothing/static/css/main.767c377d.chunk.css.map",
+    "static/js/2.a233947a.chunk.js.LICENSE.txt": "/react-zero-to-mastery/crwn-clothing/static/js/2.a233947a.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/react-zero-to-mastery/crwn-clothing/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60e91f31.js",
+    "static/js/2.a233947a.chunk.js",
+    "static/css/main.767c377d.chunk.css",
+    "static/js/main.7905db47.chunk.js"
+  ]
+}
